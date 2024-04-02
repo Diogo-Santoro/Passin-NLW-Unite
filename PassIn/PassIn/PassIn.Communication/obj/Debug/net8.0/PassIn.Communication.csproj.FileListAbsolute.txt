@@ -1,0 +1,11 @@
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.deps.json
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.pdb
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\refint\PassIn.Communication.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.pdb
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\ref\PassIn.Communication.dll

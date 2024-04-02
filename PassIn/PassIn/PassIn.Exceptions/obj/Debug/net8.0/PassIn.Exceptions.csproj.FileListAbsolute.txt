@@ -1,0 +1,11 @@
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\bin\Debug\net8.0\PassIn.Exceptions.deps.json
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\bin\Debug\net8.0\PassIn.Exceptions.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\bin\Debug\net8.0\PassIn.Exceptions.pdb
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\obj\Debug\net8.0\refint\PassIn.Exceptions.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\obj\Debug\net8.0\PassIn.Exceptions.pdb
+C:\Users\diogo\OneDrive\Área de Trabalho\Projects\Passin\PassIn\PassIn\PassIn.Exceptions\obj\Debug\net8.0\ref\PassIn.Exceptions.dll
